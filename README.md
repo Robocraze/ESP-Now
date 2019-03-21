@@ -11,7 +11,7 @@ In this example, the following steps are performed
       • The master device scans for the AP and adds the slave device(s) into its peer list
       • Callbacks are set, on each device, to send and receive data
       • The master reads data from digital IR sensor and sends that data to slave(s)
-      •  The slave device receives this data to turn on the LED and Buzzer connected to it.
+      • The slave device receives this data to turn on the LED and Buzzer connected to it.
 
 # How to use the example
 
