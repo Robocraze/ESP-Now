@@ -18,3 +18,4 @@ In this example, the following steps are performed
       • Just download the repository or copy the code from these files and upload it to their respective devices.
       • To incoporate more than 1 slave device, upload the slave code to other ESPs
       • Make suitable changes to the master program so that each device in its peer list is sent data
+      • Refer our blog for more detailed explaination: https://www.robocraze.com/index.php/blog/tutorial-getting-started-with-esp-now.html
